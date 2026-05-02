@@ -1,11 +1,11 @@
 # ⚒️ Arizona Forge: 3D Конфигуратор Сетов
 
-[![Website](https://img.shields.io/badge/Website-Open_Configurator-blue?style=for-the-badge)](https://depscian.tech/forge)
+[![Website](https://img.shields.io/badge/Website-Open_Configurator-blue?style=for-the-badge)](https://depscian.com/forge)
 [![Arizona RP](https://img.shields.io/badge/Game-Arizona_RP-red?style=for-the-badge)](https://arizona-rp.com)
 
 **Arizona Forge** — это бесплатный инструмент для игроков Arizona RP, позволяющий примерять аксессуары, скины и создавать уникальные сеты прямо в браузере.
 
-👉 **[ЗАПУСТИТЬ КОНФИГУРАТОР ОНЛАЙН](https://depscian.tech/forge)**
+👉 **[ЗАПУСТИТЬ КОНФИГУРАТОР ОНЛАЙН](https://depscian.com/forge)**
 
 ---
 
@@ -48,5 +48,5 @@
 ---
 
 ### 🔗 Полезные ссылки
-* [Главная страница Deps Tech](https://depscian.tech)
-* [Открыть Arizona Forge](https://depscian.tech/forge)
+* [Главная страница Deps Tech](https://depscian.com)
+* [Открыть Arizona Forge](https://depscian.com/forge)
